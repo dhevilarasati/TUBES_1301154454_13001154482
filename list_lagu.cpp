@@ -1,5 +1,7 @@
 #include "list_lagu.h"
 
+//NIM   :1301154482 
+
 void inputdata_lagu(infotype_lagu &lagu)
 {
     cout << "SILAHKAN INPUT DATA LAGU DARI PENYANYI";
