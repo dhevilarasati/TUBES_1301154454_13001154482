@@ -1,4 +1,5 @@
 #include "list_penyanyi.h"
+//NIM   :1301154454
 
 void inputdata_penyanyi (infotype_penyanyi &penyanyi)
 {
