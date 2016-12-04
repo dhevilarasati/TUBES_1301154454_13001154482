@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1480861489 source:e:\dedep\kuliah\tingkat 2\semester 3\asd\tubes\tubes\list_lagu.cpp
+	"list_lagu.h"
+
+1480859950 e:\dedep\kuliah\tingkat 2\semester 3\asd\tubes\tubes\list_lagu.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1480860545 source:e:\dedep\kuliah\tingkat 2\semester 3\asd\tubes\tubes\list_penyanyi.cpp
+	"list_penyanyi.h"
+
+1480859950 e:\dedep\kuliah\tingkat 2\semester 3\asd\tubes\tubes\list_penyanyi.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"list_lagu.h"
+
+1480861519 source:e:\dedep\kuliah\tingkat 2\semester 3\asd\tubes\tubes\main.cpp
+	<iostream>
+	"list_penyanyi.h"
+	"list_lagu.h"
+
