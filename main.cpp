@@ -6,6 +6,7 @@ using namespace std;
 
 int main()
 {
+    //NIM   :1301154454
     list_penyanyi L;
     list_penyanyi lp;
     list_lagu ll;
@@ -19,6 +20,7 @@ int main()
     string id;
     int total;
 
+    //NIM   :1301154482
     do
     {
     mulai:
@@ -226,6 +228,7 @@ int main()
             }
             getch();
             goto mulai;
+        //NIM   : 1301154454
         case 4 :
             system("cls");
             int pil4;
